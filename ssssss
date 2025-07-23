@@ -1,0 +1,30 @@
+[33mcommit c786162f57a6851485b4a09e55e790a9d87c6e8a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: tanisha kumawat <tanishakumawat926@gmail.com>
+Date:   Wed Jul 23 11:59:03 2025 +0530
+
+    test
+
+[33mcommit 7a09879e5da7c21f8a984db12f2788bdd0cc7e27[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 152252d 2f0e70f
+Author: tanisha kumawat <tanishakumawat926@gmail.com>
+Date:   Wed Jul 23 11:54:28 2025 +0530
+
+    Merge branch 'main' of https://github.com/tanisha926/reset
+
+[33mcommit 2f0e70fdcb641e558fdbe097cc50e75dfaf6b8e3[m
+Author: tanisha926 <tanishakumawat926@gmail.com>
+Date:   Wed Jul 23 11:50:07 2025 +0530
+
+    Update README.md
+
+[33mcommit 152252def68f12b91620741ccd074c2ad304a5ae[m
+Author: tanisha kumawat <tanishakumawat926@gmail.com>
+Date:   Wed Jul 23 11:46:57 2025 +0530
+
+    test
+
+[33mcommit 1b85781450c83b108fa24eacbd4de4452eed040b[m
+Author: tanisha926 <tanishakumawat926@gmail.com>
+Date:   Wed Jul 23 11:40:01 2025 +0530
+
+    Initial commit
